@@ -21,8 +21,6 @@ This project is a clone of the TaniniHome website, implemented using Next.js fra
 
 ## Usage
 
-1. Clone the repository:
-
   - updating soon
 
 
